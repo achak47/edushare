@@ -103,4 +103,3 @@ This is the front end of the web app . This is made by react and distributed ove
  
  
  
- //git remote add origin https://github.com/achak47/edushare.git
