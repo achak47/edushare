@@ -1,5 +1,5 @@
 Test the app live at https://edushare-frontend.herokuapp.com/
-This is the front end of the web app . This is made by react and distributed over a lot of files . The main Page is App.js and Home.js.Several Routes are set here . From the app.js the 
+This is the front end of the web app . This is made by react and distributed over a lot of files . The main Page is App.js and Home.js,Several Routes are set here . In the app.js Signin , Register and Home pages are set and an user is reverted to the home if and only if s/he provides the correct details which is checked by the database through backend . All the main code files are present in the src folder .
  
  
  
